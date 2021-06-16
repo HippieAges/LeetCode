@@ -32,12 +32,10 @@ def isRobotBounded(instructions: str) -> bool:
     
     for instruction in instructions:
         if instruction == 'G':
-            robot_pos = [sum(index) for index in list(zip(bounds['G'][direction], robot_pos))] 
+            robot_pos = [sum(index) for index in list(zip(bounds['G'][direction], robot_pos))]
         elif instruction == 'L':
             direction = bounds['L'][direction]
         else: # instruction == 'R'
             direction = bounds['R'][direction]
 
-    # need to figure out how long to loop here
-
-print(isRobotBounded("GG"))
+    return True if robot_pos == [0, 0] or direction != "north" else False
