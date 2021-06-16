@@ -2,31 +2,29 @@ class LRUCache:
 
     def __init__(self, capacity: int):
         self.map = {}
-        self.cache = []
         self.capacity = capacity
 
     def get(self, key: int) -> int:
         mapVal = self.map.get(key, -1)
         if mapVal != -1:
-            newCache = self.cache + [self.cache.pop(self.cache.index(key))]
-            self.cache = newCache
-            print(self.cache)
+            movedValue = self.map.pop(key)
+            self.map = {**self.map, **{key : movedValue}}
         return mapVal
 
     def put(self, key: int, value: int) -> None:
         if self.map.get(key, None) != None:
             self.map[key] = value
-            newCache = self.cache + [self.cache.pop(self.cache.index(key))]
-            self.cache = newCache
-        elif len(self.cache) < self.capacity:
-            self.cache.append(key)
+            movedValue = self.map.pop(key)
+            self.map = {**self.map, **{key : movedValue}}
+        elif len(self.map) < self.capacity:
             self.map[key] = value
         else: # otherwise we need to evict the least recently used key and then insert the new k-v pair
-            del self.map[self.cache[0]]
-            self.cache.pop(0)
+            for k in self.map:
+                del self.map[k]
+                break
+            # print("check self.map after delete: ", self.map)
 
             self.map[key] = value
-            self.cache.append(key)
 
 lRUCache = LRUCache(2)
 lRUCache.put(1, 1) # cache is {1=1}
@@ -42,3 +40,14 @@ print(lRUCache.get(4))   # return 4
 # lRUCache = LRUCache(1)
 # lRUCache.put(2, 1)
 # print(lRUCache.get(2))
+
+# lRUCache = LRUCache(2)
+# print(lRUCache.put(1, 1), end=" ")
+# print(lRUCache.put(2, 2), end=" ")
+# print(lRUCache.get(1), end=" ")
+# print(lRUCache.put(3, 3), end=" ")
+# print(lRUCache.get(2), end=" ")
+# print(lRUCache.put(4, 4), end=" ")
+# print(lRUCache.get(1), end=" ")
+# print(lRUCache.get(3), end=" ")
+# print(lRUCache.get(4))
