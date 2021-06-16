@@ -39,3 +39,7 @@ def isRobotBounded(instructions: str) -> bool:
             direction = bounds['R'][direction]
 
     return True if robot_pos == [0, 0] or direction != "north" else False
+
+print(isRobotBounded("GG"))
+print(isRobotBounded("GGLLGG"))
+print(isRobotBounded("GLGLGGLGL"))
