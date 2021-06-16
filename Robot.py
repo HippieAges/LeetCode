@@ -38,4 +38,6 @@ def isRobotBounded(instructions: str) -> bool:
         else: # instruction == 'R'
             direction = bounds['R'][direction]
 
+    # need to figure out how long to loop here
+
 print(isRobotBounded("GG"))
