@@ -1,21 +1,15 @@
 from typing import List
+from collections import defaultdict
 
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:
-        # time_durations = set()
         num_pairs = 0
+        frequencies = defaultdict(int)
 
-        # for duration in time:
-        #     if 60 - (duration % 60) in time_durations:
-        #         num_pairs += 1
-        #     time_durations = time_durations | {duration}
-        # return num_pairs
+        for duration in time:
+            num_pairs += frequencies[(60 - duration) % 60]
+            frequencies[duration % 60] += 1
 
-        # non-optimal solution
-        for index, duration in enumerate(time):
-            for subsquent_durations in time[index+1:]:
-                if (duration + subsquent_durations) % 60 == 0:
-                    num_pairs += 1 
         return num_pairs 
 
 s = Solution()
