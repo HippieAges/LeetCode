@@ -13,11 +13,7 @@ class Solution:
                 possible_unique_comb = Counter(combination)
                 
                 for unique_comb in all_unique_combs:
-                    index = 0
-                    for element in combination:
-                        if element in unique_comb and unique_comb[element] == possible_unique_comb[element]:
-                            index += 1
-                    if index == len(combination):
+                    if unique_comb == possible_unique_comb:
                         unique_comb = False
                         break
                 
