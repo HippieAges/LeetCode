@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) Solutions:
 
-- 1134. [Armstrong Number](https://leetcode.com/problems/armstrong-number/)
+- 1134\. [Armstrong Number](https://leetcode.com/problems/armstrong-number/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ArmstrongNum.py)
 
 ----------
