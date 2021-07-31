@@ -251,4 +251,4 @@
 ----------
 
 - 56\. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MergeIntervals.py)
