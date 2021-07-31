@@ -247,3 +247,8 @@
 
 - 103\. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/zigZagBST.py)
+
+----------
+
+- 56\. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+    - [My solution]()
