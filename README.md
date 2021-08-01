@@ -257,3 +257,8 @@
 
 - 380\. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RandomizedSet.py)
+
+----------
+
+- 348\. [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/TicTac.py)

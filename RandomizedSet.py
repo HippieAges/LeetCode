@@ -1,35 +1,41 @@
-from random import choice, randint
+from random import choice
 class RandomizedSet:
 
     def __init__(self):
         """
         Initialize your data structure here.
         """
-        self.random_set = set()
+        self.list = []
+        self.dict = {}
 
     def insert(self, val: int) -> bool:
         """
         Inserts a value to the set. Returns true if the set did not already contain the specified element.
         """
-        val_in_set = val in self.random_set
-        self.random_set.add(val)
-        return not val_in_set
+        if val in self.dict:
+            return False
+        self.dict[val] = len(self.list)
+        self.list.append(val)
+
+        return True
 
     def remove(self, val: int) -> bool:
         """
         Removes a value from the set. Returns true if the set contained the specified element.
         """
-        val_in_set = val in self.random_set
-        if val_in_set:
-            self.random_set.remove(val)
-        return val_in_set
+        if val not in self.dict:
+            return False
+        last_element, idx = self.list[-1], self.dict[val]
+        self.dict[last_element], self.list[idx] = idx, last_element
+        self.list.pop()
+        del self.dict[val]
+        return True
 
     def getRandom(self) -> int:
         """
         Get a random element from the set.
         """
-        rand_element = choice(tuple(self.random_set))
-        return rand_element
+        return choice(self.list)
 
 
 # Your RandomizedSet object will be instantiated and called as such:
