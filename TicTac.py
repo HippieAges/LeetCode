@@ -4,8 +4,11 @@ class TicTacToe:
         """
         Initialize your data structure here.
         """
-        self.board_size = n
-        self.board = [[0 for _ in range(n)] for _ in range(n)]
+        self.n = n
+        self.rows = [0 for _ in range(n)]
+        self.cols = [0 for _ in range(n)]
+        self.diag = 0
+        self.anti_diag = 0
         
 
     def move(self, row: int, col: int, player: int) -> int:
@@ -20,44 +23,21 @@ class TicTacToe:
                 2: Player 2 wins.
         """
         
-        self.board[row][col] = player
+        move = 1
+        if player == 2:
+            move = -1
         
-        p1_row, p1_col, p1_left_diag, p1_right_diag = 0, 0, 0, 0
-        p2_row, p2_col, p2_left_diag, p2_right_diag = 0, 0, 0, 0
+        self.rows[row] += move
+        self.cols[col] += move
         
-        for idx in range(self.board_size):
-            
-            reverse_idx = self.board_size - idx - 1
-            
-            # check row
-            if self.board[row][idx] == 1:
-                p1_row += 1
-            elif self.board[row][idx] == 2:
-                p2_row += 1
-            
-            # check col
-            if self.board[idx][col] == 1:
-                p1_col += 1
-            elif self.board[idx][col] == 2:
-                p2_col += 1
-            
-            # check left diagonal
-            if row == col:
-                if self.board[idx][idx] == 1:
-                    p1_left_diag += 1
-                elif self.board[idx][idx] == 2:
-                    p2_left_diag += 1
-            
-            # check right diagonal
-            if self.board[idx][reverse_idx] == 1:
-                p1_right_diag += 1
-            elif self.board[idx][reverse_idx] == 2:
-                p2_right_diag += 1
-            
-        if p1_row == self.board_size or p1_col == self.board_size or p1_right_diag == self.board_size or p1_left_diag == self.board_size:
-            return 1
-        elif p2_row == self.board_size or p2_col == self.board_size or p2_right_diag == self.board_size or p2_left_diag == self.board_size:
-            return 2
+        if row == col:
+            self.diag += move
+        
+        if col == self.n - row - 1:
+            self.anti_diag += move
+        
+        if abs(self.rows[row]) == self.n or abs(self.cols[col]) == self.n or abs(self.diag) == self.n or abs(self.anti_diag) == self.n:
+            return player
         return 0
 
 # Your TicTacToe object will be instantiated and called as such:
