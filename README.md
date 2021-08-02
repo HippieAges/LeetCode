@@ -277,3 +277,8 @@
 
 - 981\. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/TimeMap.py)
+
+----------
+
+- 252\. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MeetingRooms.py)
