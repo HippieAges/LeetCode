@@ -272,3 +272,8 @@
 
 - 215\. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     - [My solutions](https://github.com/HippieAges/LeetCode/blob/main/kthInArr.py)
+
+----------
+
+- 981\. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/TimeMap.py)
