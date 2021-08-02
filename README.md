@@ -262,3 +262,8 @@
 
 - 348\. [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/TicTac.py)
+
+----------
+
+- 1448\. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/goodNodes.py)
