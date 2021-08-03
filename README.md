@@ -297,3 +297,10 @@
 
 - 238\. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/productArrSelf.py)
+
+----------
+
+- 1480\. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RunningSum.py)
+
+----------
