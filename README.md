@@ -282,3 +282,8 @@
 
 - 252\. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MeetingRooms.py)
+
+----------
+
+- 739\. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/DailyTemps.py)
