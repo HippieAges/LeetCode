@@ -304,3 +304,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RunningSum.py)
 
 ----------
+
+- 724\. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PivotIndex.py)
+
+----------
