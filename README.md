@@ -287,3 +287,8 @@
 
 - 739\. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/DailyTemps.py)
+
+----------
+
+- 49\. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/GroupAnagrams.py)
