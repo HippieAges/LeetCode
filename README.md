@@ -309,3 +309,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PivotIndex.py)
 
 ----------
+
+- 528\. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RandomPick.py)
+
+----------
