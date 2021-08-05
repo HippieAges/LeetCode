@@ -314,3 +314,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RandomPick.py)
 
 ----------
+
+- 974\. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/SubarrDivK.py)
+
+----------
