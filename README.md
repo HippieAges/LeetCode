@@ -324,3 +324,6 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/0297811e0e0e168c6d9b3aa57e6f6f80a83d8c65/minSubArrLen.py)
 
 ----------
+
+- 325\. [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/d903863a46425e02a991710fc56d92fade536c8a/MaxSizeEqK.py)
