@@ -334,3 +334,6 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/fdc15bd0bfb21550c19cd361fbb8f0c0527c715f/FindAllAnagrams.py)
 
 ----------
+
+- 485\. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/05920cde450a6e157c3fed020ea1739c17db6ab8/MaxConsecutiveOnes.py)
