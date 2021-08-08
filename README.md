@@ -329,3 +329,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/d903863a46425e02a991710fc56d92fade536c8a/MaxSizeEqK.py)
 
 ----------
+
+- 438\. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/fdc15bd0bfb21550c19cd361fbb8f0c0527c715f/FindAllAnagrams.py)
+
+----------
