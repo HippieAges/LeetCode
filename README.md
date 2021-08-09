@@ -339,3 +339,13 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/05920cde450a6e157c3fed020ea1739c17db6ab8/MaxConsecutiveOnes.py)
 
 ----------
+
+- 1004\. [Max Consecutive Ones Three](https://leetcode.com/problems/max-consecutive-ones-iii/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MaxConsecutiveOnes3.py)
+
+----------
+
+- 239\. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/SlidingWindowMax.py)
+
+----------
