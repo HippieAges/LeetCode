@@ -349,3 +349,9 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/SlidingWindowMax.py)
 
 ----------
+
+- 904\. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+    - [My solution]()
+
+----------
+
