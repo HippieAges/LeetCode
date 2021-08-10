@@ -359,3 +359,13 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/017520fda92553e9640ee73c895ca7e10cebf028/NumSubstring3Chars.py)
 
 ----------
+
+- 445\. [Add Two Number Two](https://leetcode.com/problems/add-two-numbers-ii/)
+    - [My solution]()
+
+----------
+
+- 12\. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+    - [My solution]()
+
+----------
