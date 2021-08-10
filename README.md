@@ -361,11 +361,11 @@
 ----------
 
 - 445\. [Add Two Number Two](https://leetcode.com/problems/add-two-numbers-ii/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/e8457dbdd8d05fe4ce8d3b71dfc88b1e15cdb51a/addTwoNumsTwo.py)
 
 ----------
 
 - 12\. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/143a999531a3d752f8e580025895ef23683504c8/IntToRoman.py)
 
 ----------
