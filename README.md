@@ -351,7 +351,11 @@
 ----------
 
 - 904\. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/cde701472d3edd530f9b733ac682239521ec9ca9/FruitIntoBaskets.py)
 
 ----------
 
+- 1358\. [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/017520fda92553e9640ee73c895ca7e10cebf028/NumSubstring3Chars.py)
+
+----------
