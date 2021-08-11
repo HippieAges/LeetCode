@@ -1,47 +1,63 @@
 # Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-from collections import deque
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        l1_stack = deque()
-        l2_stack = deque()
-        output_stack = deque()
         
-        while l1 or l2:
-            if l1:
-                l1_stack.appendleft(l1.val)
-                l1 = l1.next
-            if l2:
-                l2_stack.appendleft(l2.val)
-                l2 = l2.next
-            
-        longest_stack = l1_stack if len(l1_stack) > len(l2_stack) else l2_stack
+        # first we need to figure which list is longer 
+        l1_len, l2_len = 0, 0
+        l1_temp, l2_temp = l1, l2
+        while l1_temp or l2_temp:
+            if l1_temp:
+                l1_len += 1
+                l1_temp = l1_temp.next
+            if l2_temp:
+                l2_len += 1
+                l2_temp = l2_temp.next
+        
+        # then add the two lists together, not worrying about carry for now
+        l1_temp, l2_temp = l1, l2
+        l1_longest, l2_longest = False, False
+        longer_len = 0
+        prev = None
+        
+        if l1_len > l2_len:
+            longer_len = l1_len
+            l1_longest = True
+        else:
+            longer_len = l2_len
+            l2_longest = True
+        
+        for _ in range(longer_len):
+            if l1_len > l2_len:
+                l1_len -= 1
+                l1_temp.next, prev, l1_temp = prev, l1_temp, l1_temp.next
+            elif l2_len > l1_len:
+                l2_len -= 1
+                l2_temp.next, prev, l2_temp = prev, l2_temp, l2_temp.next
+            else: # l1_len == l2_len
+                if l1_longest:
+                    l1_temp.val = l1_temp.val + l2_temp.val
+                    l1_temp.next, prev, l1_temp = prev, l1_temp, l1_temp.next
+                    l2_temp = l2_temp.next
+                elif l2_longest:
+                    l2_temp.val = l1_temp.val + l2_temp.val
+                    l2_temp.next, prev, l2_temp = prev, l2_temp, l2_temp.next
+                    l1_temp = l1_temp.next
+        
+        # finally deal with carry and reverse the list back to its original place
+        curr = prev
+        prev = None
         carry = 0
-        result = 0
         
-        for idx in range(len(longest_stack)):
-            if idx < len(l1_stack) and idx < len(l2_stack):
-                result = l1_stack[idx] + l2_stack[idx] + carry
-            elif idx < len(l1_stack):
-                result = l1_stack[idx] + carry
-            else: # idx < len(l2_stack)
-                result = l2_stack[idx] + carry
-            carry = result // 10
-            result %= 10
-            output_stack.appendleft(result)
+        while curr:
+            curr.val += carry
+            carry, value = divmod(curr.val, 10)
+            curr.val = value
+            curr.next, prev, curr = prev, curr, curr.next 
         if carry != 0:
-            output_stack.appendleft(carry)
-        # head = ListNode(output_stack.popleft())
-        # temp = head
-        
-        def recur(output_stack : List[int]) -> Optional[ListNode]:
-            if not output_stack:
-                return
-            
-            node = recur(output_stack[1:])
-            return ListNode(output_stack[0], node)
-            
-        return recur(list(output_stack))
+            node = ListNode(carry, prev)
+            prev = node
+        return prev
