@@ -374,3 +374,8 @@
     - [My solution]()
 
 ----------
+
+- 412\. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+    - [My solution]()
+
+----------
