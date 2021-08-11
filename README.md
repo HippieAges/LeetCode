@@ -369,3 +369,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/143a999531a3d752f8e580025895ef23683504c8/IntToRoman.py)
 
 ----------
+
+- 1822\. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+    - [My solution]()
+
+----------
