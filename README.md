@@ -371,11 +371,16 @@
 ----------
 
 - 1822\. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ArraySign.py)
 
 ----------
 
 - 412\. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/FizzBuzz.py)
+
+----------
+
+1197\. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MinKnightMoves.py)
 
 ----------
