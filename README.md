@@ -380,7 +380,7 @@
 
 ----------
 
-1197\. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)
+- 1197\. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MinKnightMoves.py)
 
 ----------
