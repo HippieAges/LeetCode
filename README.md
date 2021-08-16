@@ -389,3 +389,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/c678267417794383d9ca5df325cb1b94b20dcc95/StringCompression.py)
 
 ----------
+
+- 1518\. [Water Bottles](https://leetcode.com/problems/water-bottles/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/05307adf75cdceba6c3fbf19a1f4d653009eb8a6/WaterBottles.py)
+
+----------
