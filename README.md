@@ -399,3 +399,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/47be72b60addfb1e78f70fb3d4e33b83d3fb1b6a/minSwaps.py)
 
 ----------
+
+- 268\. [Missing Number](https://leetcode.com/problems/missing-number/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/7e798898dc001f2ddfcfadffe25f66eb6be698e1/missingNum.py)
+
+----------
