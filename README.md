@@ -384,3 +384,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MinKnightMoves.py)
 
 ----------
+
+- 443\. [String Compression](https://leetcode.com/problems/string-compression/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/c678267417794383d9ca5df325cb1b94b20dcc95/StringCompression.py)
+
+----------
