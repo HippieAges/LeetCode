@@ -394,3 +394,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/05307adf75cdceba6c3fbf19a1f4d653009eb8a6/WaterBottles.py)
 
 ----------
+
+- 1151\. [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/47be72b60addfb1e78f70fb3d4e33b83d3fb1b6a/minSwaps.py)
+
+----------
