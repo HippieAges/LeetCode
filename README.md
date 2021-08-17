@@ -416,6 +416,11 @@
 ----------
 
 - 134\. [Gas Station](https://leetcode.com/problems/gas-station/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/2e12f5359f388ddea9a22d0806fe2739978adbe8/GasStation.py)
+
+----------
+
+- 1099\. [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)
     - [My solution]()
 
 ----------
