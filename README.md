@@ -409,3 +409,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/38212114d8eb52520e186cccb488bc6ff3081320/ThreeSum.py)
 
 ----------
+
+- 167\. [Two Sum 2 - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/becc2ab1ed9171951ab85328d0b3e5f80a0d29c8/TwoSumSorted.py)
+
+----------
