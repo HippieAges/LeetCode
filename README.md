@@ -404,3 +404,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/7e798898dc001f2ddfcfadffe25f66eb6be698e1/missingNum.py)
 
 ----------
+
+- 15\. [3Sum](https://leetcode.com/problems/3sum/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/38212114d8eb52520e186cccb488bc6ff3081320/ThreeSum.py)
+
+----------
