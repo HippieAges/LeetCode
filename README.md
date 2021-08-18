@@ -451,6 +451,11 @@
 ----------
 
 - 121\. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/8c5c5d08555b9bb0196aafe684adde9cb6f6dcee/BuySellStock.py)
+
+----------
+
+- 339\. [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
     - [My solution]()
 
 ----------
