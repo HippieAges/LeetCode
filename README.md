@@ -434,3 +434,8 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/d5ad50a7576e426310e94e3341a95d3f5bc5528b/ThreeSumClosest.py)
 
 ----------
+
+- 18\. [4Sum](https://leetcode.com/problems/4sum/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/45bc1f704d6d330221d803e78b2613a54fce4aa5/FourSum.py)
+
+----------
