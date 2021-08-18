@@ -441,6 +441,11 @@
 ----------
 
 - 511\. [Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/3477f91d18552194d54365eebe958d0c8b50146d/GamePlayAnalysis1.sql)
+
+----------
+
+- 175\. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
     - [My solution]()
 
 ----------
