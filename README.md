@@ -426,11 +426,11 @@
 ----------
 
 - 259\. [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/a4744f1e740723a01bb2b6f7d7c59cb3221d1168/ThreeSumSmaller.py)
 
 ----------
 
 - 16\. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/d5ad50a7576e426310e94e3341a95d3f5bc5528b/ThreeSumClosest.py)
 
 ----------
