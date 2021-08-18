@@ -421,6 +421,11 @@
 ----------
 
 - 1099\. [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/2a6431004c8b46f7e76e8d337a7b0c2f888c4209/TwoSumLessThanK.py)
+
+----------
+
+- 259\. [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
     - [My solution]()
 
 ----------
