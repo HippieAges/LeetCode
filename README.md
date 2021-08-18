@@ -446,6 +446,11 @@
 ----------
 
 - 175\. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/c04c112d7749948b94e505bf70fd8eb692844980/CombiningTwoTables.sql)
+
+----------
+
+- 121\. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     - [My solution]()
 
 ----------
