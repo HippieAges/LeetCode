@@ -464,3 +464,13 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/24f2edc88106ef5a8f10585ac527ee4a54897898/NestedWeightSumTwo.py)
 
 ----------
+
+- 314\. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/9bc8bc5c55dc653da0a775cb65078c646769c09e/BSTVerticalOrder.py)
+
+----------
+
+- 204\. [Count Primes](https://leetcode.com/problems/count-primes/)
+    - [My solution]()
+
+----------
