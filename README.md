@@ -459,3 +459,8 @@
     - [My solution]()
 
 ----------
+
+- 364\. [Nested List Weight Sum 2](https://leetcode.com/problems/nested-list-weight-sum-ii/)
+    - [My solution]()
+
+----------
