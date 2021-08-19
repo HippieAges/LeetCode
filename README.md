@@ -456,7 +456,7 @@
 ----------
 
 - 339\. [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/fd37c182ef411733642193ae72140a409b4cbd3c/NestedWeightSum.py)
 
 ----------
 
