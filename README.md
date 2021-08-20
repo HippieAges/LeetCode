@@ -471,6 +471,11 @@
 ----------
 
 - 204\. [Count Primes](https://leetcode.com/problems/count-primes/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/f54ce23ab3f87441dcd964f67bdb6c13b7db4c28/CountPrimes.py)
+
+----------
+
+- 1344\. [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
     - [My solution]()
 
 ----------
