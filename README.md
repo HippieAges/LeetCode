@@ -476,6 +476,11 @@
 ----------
 
 - 1344\. [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/AngBetweenClockHands.py)
+
+----------
+
+- 283\. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
     - [My solution]()
 
 ----------
