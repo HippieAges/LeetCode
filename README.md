@@ -481,11 +481,11 @@
 ----------
 
 - 283\. [Move Zeros](https://leetcode.com/problems/move-zeroes/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/moveZeros.py)
 
 ----------
 
 - 1355\. [Activity Participants](https://leetcode.com/problems/activity-participants/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ActivityParticipants.sql)
 
 ----------
