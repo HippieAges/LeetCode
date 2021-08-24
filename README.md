@@ -486,6 +486,6 @@
 ----------
 
 - 1355\. [Activity Participants](https://leetcode.com/problems/activity-participants/)
-    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ActivityParticipants.sql)
+    - [Viewed solution](https://github.com/HippieAges/LeetCode/blob/main/ActivityParticipants.sql)
 
 ----------
