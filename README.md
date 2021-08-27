@@ -491,11 +491,11 @@
 ----------
 
 - 742\. [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/07a94dfdd2d4c033735b29bbc96ff65bd4d68886/ClosestLeafInBST.py)
 
 ----------
 
 - 722 \. [Remove Comments](https://leetcode.com/problems/remove-comments/)
-    - [Online/My solution]()
+    - [Online/My solution](https://github.com/HippieAges/LeetCode/blob/a8c958f409664f501e0a40fe19fa8745d0d1d24b/RemoveComments.py)
 
 ----------
