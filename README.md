@@ -489,3 +489,13 @@
     - [Viewed solution](https://github.com/HippieAges/LeetCode/blob/main/ActivityParticipants.sql)
 
 ----------
+
+- 742\. [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/)
+    - [My solution]()
+
+----------
+
+- 722 \. [Remove Comments](https://leetcode.com/problems/remove-comments/)
+    - [Online/My solution]()
+
+----------
