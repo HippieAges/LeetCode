@@ -499,3 +499,13 @@
     - [Online/My solution](https://github.com/HippieAges/LeetCode/blob/a8c958f409664f501e0a40fe19fa8745d0d1d24b/RemoveComments.py)
 
 ----------
+
+- 148\. [Sort List](https://leetcode.com/problems/sort-list/)
+    - [My solution]()
+
+----------
+
+- 75\. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+    - [My solution]()
+
+----------
