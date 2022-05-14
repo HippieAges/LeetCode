@@ -501,11 +501,16 @@
 ----------
 
 - 148\. [Sort List](https://leetcode.com/problems/sort-list/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/425367b86d5b8ff1faef992a7490353c0abdd210/SortList.py)
 
 ----------
 
 - 75\. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/67fd82f1853da70eb3baf4516b0f0de159c7a715/SortColors.py)
+
+----------
+
+- 704\. [Binary Search](https://leetcode.com/problems/binary-search/)
     - [My solution]()
 
 ----------
