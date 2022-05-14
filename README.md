@@ -511,6 +511,6 @@
 ----------
 
 - 704\. [Binary Search](https://leetcode.com/problems/binary-search/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/BinSearch.py)
 
 ----------
