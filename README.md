@@ -521,6 +521,6 @@
 ----------
 
 - 33\. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RotatedSearch.py)
 
 ----------
