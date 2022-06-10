@@ -22,7 +22,7 @@ class Solution:
         
 #         return k
         # optimized solution (not the best)
-        # O(mlogn) time & O(1) space complexity
+        # O(nlogm) time & O(1) space complexity
         def binary_search(low_k: int, high_k: int) -> int:
             temp_h, mid_k = 0, 1
             smallest_pos_temp_h, temp_mid_k = high_k, 1

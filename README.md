@@ -524,3 +524,12 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RotatedSearch.py)
 
 ----------
+
+- 875\. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/KokoBananas.py)
+
+----------
+
+- 83\. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+    - [My solution]
+----------
