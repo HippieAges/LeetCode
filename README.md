@@ -531,5 +531,11 @@
 ----------
 
 - 83\. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-    - [My solution]
+    - [My solution]()
+
+----------
+
+- 82\. [Remove Duplicates from Sorted List 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+    - [My solution]()
+
 ----------
