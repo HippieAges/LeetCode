@@ -536,6 +536,11 @@
 ----------
 
 - 82\. [Remove Duplicates from Sorted List 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RemoveDupFromSortedTwo.py)
+
+----------
+
+- 2058\. [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)
     - [My solution]()
 
 ----------
