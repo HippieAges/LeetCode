@@ -541,11 +541,16 @@
 ----------
 
 - 2058\. [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/88ab177f5e4a054fcfb2790a2a607752d33f9688/MinMaxCritPts.py)
 
 ----------
 
 - 1669\. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/88ab177f5e4a054fcfb2790a2a607752d33f9688/MergeBetweenTwoLists.py)
+
+----------
+
+- 24\. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
     - [My solution]()
 
 ----------
