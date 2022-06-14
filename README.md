@@ -551,6 +551,11 @@
 ----------
 
 - 24\. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/143da937943e90925a8ee39b6daf2ee92702a1c7/SwapNodesInPairs.py)
+
+----------
+
+- 328\. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
     - [My solution]()
 
 ----------
