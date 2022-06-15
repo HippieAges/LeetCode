@@ -556,6 +556,11 @@
 ----------
 
 - 328\. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/350759bf8e39c01483de2bc3310743a00beac2e6/OddEvenLinkedList.py)
+
+----------
+
+- 61\. [Rotate List](https://leetcode.com/problems/rotate-list/)
     - [My solution]()
 
 ----------
