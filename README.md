@@ -566,11 +566,16 @@
 ----------
 
 - 2095\. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/DeleteMidInList.py)
 
 ----------
 
 - 143\. [Reorder List](https://leetcode.com/problems/reorder-list/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ReorderList.py)
+
+----------
+
+- 2130\. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
     - [My solution]()
 
 ----------
