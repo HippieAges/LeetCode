@@ -561,6 +561,16 @@
 ----------
 
 - 61\. [Rotate List](https://leetcode.com/problems/rotate-list/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RotateList.py)
+
+----------
+
+- 2095\. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+    - [My solution]()
+
+----------
+
+- 143\. [Reorder List](https://leetcode.com/problems/reorder-list/)
     - [My solution]()
 
 ----------
