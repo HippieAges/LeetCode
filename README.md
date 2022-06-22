@@ -576,6 +576,21 @@
 ----------
 
 - 2130\. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MaxTwoSumInList.py)
+
+----------
+
+- 1019\. [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+    - [My solution]()
+
+----------
+
+- 203\. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+    - [My solution]()
+
+----------
+
+- 876\. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
     - [My solution]()
 
 ----------
