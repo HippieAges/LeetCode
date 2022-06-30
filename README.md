@@ -581,16 +581,21 @@
 ----------
 
 - 1019\. [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/NextGreaterInList.py)
 
 ----------
 
 - 203\. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/RemoveElemInList.py)
 
 ----------
 
 - 876\. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MidOfList.py)
+
+----------
+
+- 2181\. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
     - [My solution]()
 
 ----------
