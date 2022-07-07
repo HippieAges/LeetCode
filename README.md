@@ -610,7 +610,7 @@
 
 ----------
 
-- 117\. [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+- 117\. [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode.com/problemspopulating-next-right-pointers-in-each-node-ii/)
     - [My solution]()
 
 ----------
