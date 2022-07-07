@@ -610,7 +610,7 @@
 
 ----------
 
-- 117\. [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode.com/problemspopulating-next-right-pointers-in-each-node-ii/)
+- 117\. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problemspopulating-next-right-pointers-in-each-node-ii/)
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PopulateNextPtrToRight2.py)
 
 ----------
