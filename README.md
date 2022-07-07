@@ -601,16 +601,16 @@
 ----------
 
 - 1670\. [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/FrontMidBackQueue.py)
 
 ----------
 
 - 116\. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PopulateNextPtrToRight.py)
 
 ----------
 
 - 117\. [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode.com/problemspopulating-next-right-pointers-in-each-node-ii/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PopulateNextPtrToRight2.py)
 
 ----------
