@@ -16,7 +16,6 @@ class Solution:
             if curr_node.val == 0:
                 curr_new_sum_node.val = curr_sum
                 curr_new_sum_node.next = curr_node.next
-                curr_node = curr_new_sum_node.next
                 curr_new_sum_node = None
                 curr_sum = 0
             else:

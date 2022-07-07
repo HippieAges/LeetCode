@@ -602,3 +602,15 @@
 
 - 1670\. [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)
     - [My solution]()
+
+----------
+
+- 116\. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+    - [My solution]()
+
+----------
+
+- 117\. [https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+    - [My solution]()
+
+----------
