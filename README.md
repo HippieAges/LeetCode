@@ -614,3 +614,6 @@
     - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PopulateNextPtrToRight2.py)
 
 ----------
+
+- 43\. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+    - [My solution]()
