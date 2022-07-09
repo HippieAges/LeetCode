@@ -616,4 +616,11 @@
 ----------
 
 - 43\. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/MultiplyStrings.py)
+
+----------
+
+- 415\. [Add Strings](https://leetcode.com/problems/add-strings/)
     - [My solution]()
+
+----------
