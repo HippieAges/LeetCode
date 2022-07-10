@@ -624,3 +624,18 @@
     - [My solution]()
 
 ----------
+
+- 129\. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+    - [My solution]()
+
+----------
+
+- 515\. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+    - [My solution]()
+
+----------
+
+- 1721\. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+    - [My solution]()
+
+----------
