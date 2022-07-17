@@ -639,3 +639,28 @@
     - [My solution]()
 
 ----------
+
+- 112\. [Path Sum](https://leetcode.com/problems/path-sum/)
+    - [My solution]()
+
+----------
+
+- 113\. [Path Sum 2](https://leetcode.com/problems/path-sum-ii/)
+    - [My solution]()
+
+----------
+
+- 230\. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+    - [My solution]()
+
+----------
+
+- 450\. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+    - [My solution]()
+
+----------
+
+- 2265\. [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+    - [My solution]()
+
+----------
