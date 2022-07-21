@@ -621,61 +621,61 @@
 ----------
 
 - 415\. [Add Strings](https://leetcode.com/problems/add-strings/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/AddStrings.py)
 
 ----------
 
 - 129\. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/SumRootToLeaf.py)
 
 ----------
 
 - 515\. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/FindLargestValInRow.py)
 
 ----------
 
 - 1721\. [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/SwapNodesInList.py)
 
 ----------
 
 - 112\. [Path Sum](https://leetcode.com/problems/path-sum/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PathSum.py)
 
 ----------
 
 - 113\. [Path Sum 2](https://leetcode.com/problems/path-sum-ii/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/PathSumTwo.py)
 
 ----------
 
 - 230\. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/kthSmallestInBST.py)
 
 ----------
 
 - 450\. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/DeleteNodeInBST.py)
 
 ----------
 
 - 2265\. [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/AvgNodesInSubTree.py)
 
 ----------
 
 - 1325\. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/DeleteLeavesWithVal.py)
 
 ----------
 
 98\. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ValidateBST.py)
 
 ----------
 
 1609\. [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/EvenOddTree.py)
 
 ----------
