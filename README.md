@@ -668,5 +668,14 @@
 - 1325\. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)
     - [My solution]()
 
+----------
+
+98\. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+    - [My solution]()
+
+----------
+
+1609\. [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
+    - [My solution]()
 
 ----------
