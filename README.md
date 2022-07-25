@@ -683,4 +683,14 @@
 2196\. [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
     - [My solution]()
 
-----------   
+----------
+
+- 1261\. [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
+    - [My solution]()
+
+----------
+
+- 1305\. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+    - [My solution]()
+
+----------
