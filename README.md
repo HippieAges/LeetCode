@@ -681,16 +681,21 @@
 ----------
 
 2196\. [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/BinaryTreeFromDesc.py)
 
 ----------
 
 - 1261\. [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
-    - [My solution]()
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/FindElemsInContaminatedBinTree.py)
 
 ----------
 
 - 1305\. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+    - [My solution](https://github.com/HippieAges/LeetCode/blob/main/ElemsFromTwoBSTs.py)
+
+----------
+
+- 1302\. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
     - [My solution]()
 
 ----------
